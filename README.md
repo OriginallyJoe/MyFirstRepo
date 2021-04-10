@@ -12,13 +12,13 @@ Here is the my another md file:[test.md](./test.md)
 
 First I want to show you one video-game character that I like:
 
-![Arthur](.\Arthur.png"亚瑟·摩根")
+![Arthur](/image-folder/Arthur.png"亚瑟·摩根")
 
 
 
 Then, the person below is one I dislike in the same game: 
 
-![Micah Bell](https://img.3dmgame.com/uploads/images/news/20191105/1572941465_538449.jpg"迈卡·贝尔")
+![Micah Bell](https://static.wikia.nocookie.net/reddeadredemption/images/d/de/Micahbell1899.png/revision/latest?cb=20200929052109"迈卡·贝尔")
 
 
 
