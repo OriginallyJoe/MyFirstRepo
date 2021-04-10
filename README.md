@@ -12,7 +12,8 @@ Here is the my another md file:[test.md](./test.md)
 
 First I want to show you one video-game character that I like:
 
-![Arthur](/image-folder/Arthur.png"亚瑟·摩根")
+![Arthur](/image-folder/Arthur.png
+"亚瑟·摩根")
 
 
 
